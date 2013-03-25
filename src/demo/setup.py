@@ -23,5 +23,6 @@ setup(
     dependency_links=dependency_links,
     install_requires=[
         'markdown',
+        'balanced',
     ],
 )
