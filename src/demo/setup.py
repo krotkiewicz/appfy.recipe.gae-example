@@ -23,8 +23,5 @@ setup(
     dependency_links=dependency_links,
     install_requires=[
         'markdown',
-        'httplib2',
-        'apiclient',
-        'wtforms',
     ],
 )
